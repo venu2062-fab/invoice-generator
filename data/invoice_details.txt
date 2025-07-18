@@ -1,0 +1,14 @@
+ClientName=SURYA BUILD TECH
+ClientAddress=#15/76, "Unnathi", outhouse 3rd floor, E.A.T street, Basavanagudi, Bangalore-560004.
+ClientPhone=9880866377
+ClientGST=29ACZFS5261J1Z5
+
+DeliveryName = Hitachi Energy India Ltd
+DeliveryAddress = Sy no.30 Thammashettihalli village, Sandhya Farm Raghunathapura, Devanahalli, main Road, Doddaballapura, Karnataka 562163
+DeliveryPhone =9880866377
+
+InvoiceNumber=INV0003
+InvoiceDate=July 18, 2025
+DueDate=July 18, 2025
+
+TransportAmount = 3500
